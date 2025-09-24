@@ -1,0 +1,56 @@
+leftnav:
+- identifier: a422ad63-9610-e588-e61b-757691fa789d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e93cc6a3-4cfb-544b-8da6-3d30ecea19e8
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 58aab7f1-bcd0-dd6c-ea7b-e5b767dc965d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: a6fbb12f-a0d6-2fa9-6b6a-6d9bc10f1023
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 4739f3af-9c22-b62e-a941-5d1e047d6450
+  name: Assignments & Exams
+  pageRef: /pages/assignments-and-exams/
+  weight: 50
+- identifier: ba22a58a-0d00-2b0b-59e1-4973cfcdbdaf
+  name: Intro to Your Congressional District
+  pageRef: /pages/assignments-and-exams/intro-congressional-district
+  parent: 4739f3af-9c22-b62e-a941-5d1e047d6450
+  weight: 60
+- identifier: 9d0e3421-6889-a9c4-15e6-9d4843868b4a
+  name: Problem Set 2
+  pageRef: /pages/assignments-and-exams/problem-sets
+  parent: 4739f3af-9c22-b62e-a941-5d1e047d6450
+  weight: 70
+- identifier: 021b0948-71d8-0ea6-fd7f-df2ba7d8def8
+  name: Redistricting Exercise
+  pageRef: /pages/assignments-and-exams/redistricting-exercise
+  parent: 4739f3af-9c22-b62e-a941-5d1e047d6450
+  weight: 80
+- identifier: 9a16c395-1b02-4688-b679-47da4bb524c8
+  name: Final Paper
+  pageRef: /pages/assignments-and-exams/final-paper
+  parent: 4739f3af-9c22-b62e-a941-5d1e047d6450
+  weight: 90
+- identifier: 42aa3208-3ea8-08c6-542a-03a1822bdd80
+  name: 2015 Midterm Exam
+  pageRef: /pages/assignments-and-exams/2015-midterm-exam
+  parent: 4739f3af-9c22-b62e-a941-5d1e047d6450
+  weight: 100
+- identifier: a1610327-d32e-85b2-b2b1-53141c5d46c8
+  name: 2016 Midterm Exam
+  pageRef: /pages/assignments-and-exams/2016-midterm-exam
+  parent: 4739f3af-9c22-b62e-a941-5d1e047d6450
+  weight: 110
+- identifier: 94ef2bdc-1f4c-8e1c-4d54-6c44c3e6536e
+  name: 2016 Final
+  pageRef: /pages/assignments-and-exams/2016-final
+  parent: 4739f3af-9c22-b62e-a941-5d1e047d6450
+  weight: 120
