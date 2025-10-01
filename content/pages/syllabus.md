@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains information on course meeting times, prerequisites,
   and grading structure.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_17.20 Introduction to American Politics_](/courses/17-20-introduction-to-the-american-political-process-spring-2004) or receiving a 4 or 5 on the Advanced Placement Program{{< sup "®" >}} {{% resource_link "5a7371b4-553a-4d0f-ad54-0de28ecfb28b" "United States Government and Politics" %}} exam.
+[_17.20 Introduction to American Politics_](/courses/17-20-introduction-to-the-american-political-process-spring-2004) or receiving a 4 or 5 on the Advanced Placement Program{{< sup "®" >}} [United States Government and Politics](http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/2259.html) exam.
 
 Course Description
 ------------------
