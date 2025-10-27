@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This page contains information for completing the final paper.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments & Exams
@@ -24,6 +22,6 @@ You should have a topic chosen by the week following the midterm (week 17).
 Sources
 -------
 
-This should be a term paper. The expectation is that you will use a combination of sources that range from congressional documents to [_CQ Weekly_](https://library.cqpress.com/cqweekly/) to books and journal articles. Each paper will be different in the details. There is an essay at the back of _Analyzing Congress_ about doing congressional research—it is recommended you consult that essay.
+This should be a term paper. The expectation is that you will use a combination of sources that range from congressional documents to {{% resource_link "b50e4895-eb87-402f-9e64-7f6dfde36a01" "_CQ Weekly_" %}} to books and journal articles. Each paper will be different in the details. There is an essay at the back of _Analyzing Congress_ about doing congressional research—it is recommended you consult that essay.
 
 Due: Class 28

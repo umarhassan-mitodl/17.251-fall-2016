@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This page contains information about how to complete assignment 1.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments & Exams
@@ -34,4 +32,4 @@ Come to class 2 prepared to give a 3-to-5 minute political introduction to your 
 
 *   **The political future of the district**
 
-The best sources of information for this assignment can be found in the current editions of the [_Almanac of American Politics_](https://www.thealmanacofamericanpolitics.com/) and [_Politics in America_](https://us.sagepub.com/en-us/nam/politics-in-america-2014/book240572).
+The best sources of information for this assignment can be found in the current editions of the {{% resource_link "86f02193-2e3e-4ace-995a-baa736d85c38" "_Almanac of American Politics_" %}} and {{% resource_link "77f78151-d31a-4e95-ae2b-8a5a95268479" "_Politics in America_" %}}.
